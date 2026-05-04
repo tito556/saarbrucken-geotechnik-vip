@@ -1,0 +1,51 @@
+# Geotechnik — Saarbrucken
+
+> Geotechnical engineering services in Saarbrucken, Deutschland.
+
+## Services
+- [Anker](https://saarbrucken.geotechnik.vip/anker/)
+- [Atterberg Grenzen](https://saarbrucken.geotechnik.vip/atterberg-grenzen/)
+- [Aushub](https://saarbrucken.geotechnik.vip/aushub/)
+- [Aushub Monitoring](https://saarbrucken.geotechnik.vip/aushub-monitoring/)
+- [Bodenplatten](https://saarbrucken.geotechnik.vip/bodenplatten/)
+- [Bodenverbesserung](https://saarbrucken.geotechnik.vip/bodenverbesserung/)
+- [Boschungsstabilitat](https://saarbrucken.geotechnik.vip/boschungsstabilitat/)
+- [Cbr Strasse](https://saarbrucken.geotechnik.vip/cbr-strasse/)
+- [Cpt Versuch](https://saarbrucken.geotechnik.vip/cpt-versuch/)
+- [Erdbebenisolierung](https://saarbrucken.geotechnik.vip/erdbebenisolierung/)
+- [Flexibler Belag](https://saarbrucken.geotechnik.vip/flexibler-belag/)
+- [Fundamente](https://saarbrucken.geotechnik.vip/fundamente/)
+- [Grundungen](https://saarbrucken.geotechnik.vip/grundungen/)
+- [Hange](https://saarbrucken.geotechnik.vip/hange/)
+- [In Situ Durchlassigkeit](https://saarbrucken.geotechnik.vip/in-situ-durchlassigkeit/)
+- [Injektionen](https://saarbrucken.geotechnik.vip/injektionen/)
+- [Korngrossenanalyse](https://saarbrucken.geotechnik.vip/korngrossenanalyse/)
+- [Labor](https://saarbrucken.geotechnik.vip/labor/)
+- [Labor In Situ](https://saarbrucken.geotechnik.vip/labor-in-situ/)
+- [Masw](https://saarbrucken.geotechnik.vip/masw/)
+- [Pfahle](https://saarbrucken.geotechnik.vip/pfahle/)
+- [Proctor Versuche](https://saarbrucken.geotechnik.vip/proctor-versuche/)
+- [Ruttelverdichtung](https://saarbrucken.geotechnik.vip/ruttelverdichtung/)
+- [Sandkegel Dichte](https://saarbrucken.geotechnik.vip/sandkegel-dichte/)
+- [Schottersaulen](https://saarbrucken.geotechnik.vip/schottersaulen/)
+- [Schurfgruben](https://saarbrucken.geotechnik.vip/schurfgruben/)
+- [Seismik](https://saarbrucken.geotechnik.vip/seismik/)
+- [Seismische Mikrozonierung](https://saarbrucken.geotechnik.vip/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://saarbrucken.geotechnik.vip/seismische-refraktion/)
+- [Spt Bohrung](https://saarbrucken.geotechnik.vip/spt-bohrung/)
+- [Starrer Belag](https://saarbrucken.geotechnik.vip/starrer-belag/)
+- [Strassenbau](https://saarbrucken.geotechnik.vip/strassenbau/)
+- [Stutzmauern](https://saarbrucken.geotechnik.vip/stutzmauern/)
+- [Tiefe Aushube](https://saarbrucken.geotechnik.vip/tiefe-aushube/)
+- [Triaxialversuch](https://saarbrucken.geotechnik.vip/triaxialversuch/)
+- [Untersuchung](https://saarbrucken.geotechnik.vip/untersuchung/)
+- [Verflussigung](https://saarbrucken.geotechnik.vip/verflussigung/)
+- [Weichbodentunnel](https://saarbrucken.geotechnik.vip/weichbodentunnel/)
+- [Widerstand](https://saarbrucken.geotechnik.vip/widerstand/)
+
+## Contact
+- Website: https://saarbrucken.geotechnik.vip/
+
+## About
+This site provides geotechnical engineering services in Saarbrucken, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
